@@ -27,6 +27,11 @@ public class Ejemplo03 {
         // arreglo de tipo entero
         int[] arreglo3 = {5, 10, 15, 20, 25};
         
+        // arreglo de double - 3 elementos
+        double[] arreglo4;
+        arreglo4 = new double[3];
+        //arreglo de cadenas - 4 elementos
+        String[] arreglo5 = {"Machala", "Loja", "Quito"};
     }
 
 }
